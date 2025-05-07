@@ -6,6 +6,10 @@ This is a full-stack Learning Management System (LMS) application built using th
 
 The LMS is designed to facilitate online education with distinct roles for students and instructors. Students can explore courses, enroll in them, and track their progress, while instructors can create, edit, and manage courses. The application features a responsive UI with light and dark mode support, secure payment integration via Stripe, and protected routes to ensure proper access control.
 
+## Live Demo
+
+[Link to Live Demo](https://learnify-77yr.onrender.com/)
+
 ## Features
 
 - **User Authentication**:
@@ -111,10 +115,6 @@ The LMS is designed to facilitate online education with distinct roles for stude
    ```bash
    npm run dev
    ```
-
-## Live Demo
-
-[Link to Live Demo](#) *(Note: Replace with actual link when available)*
 
 ## Additional Notes
 
